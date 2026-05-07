@@ -24,25 +24,9 @@
 
 Passionate Full Stack Developer and Computer Science student focused on building real-world, scalable applications. I'm deeply interested in integrating AI into modern web products to create smarter, more efficient user experiences.
 
-- 🚀 Currently building **Cognivio** — an AI-powered learning platform
-- 🧠 Exploring the intersection of **AI & Full Stack Web Development**
+- 🧠 Exploring the intersection of **AI Engineering & Full Stack Development**
 - 📚 Always learning, always building, always exploring
 - 💡 Open to collaborating on innovative projects
-
----
-
-## 🔭 Current Project — Cognivio
-
-> An AI-powered learning platform designed to make studying more **interactive, adaptive, and efficient**.
-
-**Key Features:**
-- 🤖 Intelligent concept explanations & AI chat-based study assistance
-- 🎥 Video-based learning support
-- 🎙️ Voice chat interaction
-- 📝 AI-generated quizzes & smart flashcards
-- 🎯 Personalized learning recommendations
-
-**Tech Stack:** MERN Stack · Next.js · AI APIs for real-time content generation, voice interaction, and multimedia learning
 
 ---
 
@@ -55,13 +39,14 @@ Passionate Full Stack Developer and Computer Science student focused on building
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Backend & Databases**
@@ -72,20 +57,28 @@ Passionate Full Stack Developer and Computer Science student focused on building
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+**AI & Integrations**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/Atlas_Vector_Search-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-7C3AED?style=flat-square&logoColor=white)
+
 **Tools & Platforms**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-
-</div>
 
 <div align="center">
 
