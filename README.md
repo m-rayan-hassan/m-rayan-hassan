@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Muhammad Rayan Hassan 👋
+# Hi there, I'm Rayan 👋
 
 ### Full Stack Developer · CS Student · Building AI-Powered Applications
 
