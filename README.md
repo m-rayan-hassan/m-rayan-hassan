@@ -90,6 +90,6 @@ I'm a full stack AI engineer and Computer Science student. I design AI reasoning
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=m-rayan-hassan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+<img width="80%" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=m-rayan-hassan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
