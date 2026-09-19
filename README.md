@@ -2,7 +2,7 @@
 
 # Hi there, I'm Rayan 👋
 
-### Full Stack Developer · CS Student · Building AI-Powered Applications
+### Full Stack Engineer · Applied AI/LLM Systems · CS Student at NUTECH
 
 <p>
   <a href="https://dev-rayan.vercel.app" target="_blank">
@@ -22,11 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate Full Stack Developer and Computer Science student focused on building real-world, scalable applications. I'm deeply interested in integrating AI into modern web products to create smarter, more efficient user experiences.
-
-- 🧠 Exploring the intersection of **AI Engineering & Full Stack Development**
-- 📚 Always learning, always building, always exploring
-- 💡 Open to collaborating on innovative projects
+I'm a full stack AI engineer and Computer Science student. I design AI reasoning into products from the start, not bolted on afterward. On the engineering side, that's clean service architecture, solid data modeling, and REST APIs. On the AI side, it's retrieval augmented generation and agentic tool use. I keep AI assisted decisions auditable and human reviewed rather than fully autonomous, and I care about building systems people can actually trust, not just ones that work in a demo.
 
 ---
 
@@ -40,32 +36,38 @@ Passionate Full Stack Developer and Computer Science student focused on building
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-**Backend & Databases**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**AI & Integrations**
+**Databases & ORMs**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black)
+
+**AI / LLM / ML**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/Atlas_Vector_Search-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB0028?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi-7C3AED?style=flat-square&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
 
 **Tools & Platforms**
 
@@ -74,7 +76,7 @@ Passionate Full Stack Developer and Computer Science student focused on building
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
