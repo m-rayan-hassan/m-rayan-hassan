@@ -2,7 +2,7 @@
 
 # Hi there, I'm Rayan 👋
 
-### Full Stack Engineer · Applied AI/LLM Systems · CS Student at NUTECH
+### Full Stack AI Engineer · Applied AI/LLM Systems · CS Student at NUTECH
 
 <p>
   <a href="https://dev-rayan.vercel.app" target="_blank">
